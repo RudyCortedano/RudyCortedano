@@ -1,4 +1,4 @@
-# Bienvenidos a mi gitHub 👋
+# Bienvenidos a mi github 👋
 
 <!--
 **RudyCortedano/RudyCortedano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
