@@ -8,7 +8,7 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
-- 🌱 Desarrollo sitios web responsivos y dinamicos tambien trabajar arquitectura microfrontend con module federation ya sea en VueJS O ReactJS, tambien API-REST monoliticas con NestJS.
+- 🌱 Desarrollo sitios web responsivos y dinamicos siempre en la busqueda de la resolución de problemas.
 
 - 📫 Puedes ponerte en contacto conmigo por acá: rudycortedano029@gmail.com
 
